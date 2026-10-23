@@ -1,5 +1,5 @@
 import React from "react";
-import HomeIndex from "../../../../pages/dashboard/HomeIndex";
+import HomeIndex from "../../../components/pages/dashboard/HomeIndex";
 export default function page() {
   return (
     <div>
